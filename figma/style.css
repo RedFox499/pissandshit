@@ -35,11 +35,23 @@ li
     right: 650px;
     top: 5px;
 }
-.Search
+.inst
+{
+    position: fixed;
+    top: 865px;
+    right: 260px;
+}
+.whatsapp
+{
+    position: fixed;
+    top: 865px;
+    right: 206px;
+}
+.fuckbook
 {
     position:fixed;
-    right: 146px;
-    top: 28px;
+    top: 878px;
+    right: 150px;
 }
 .Logoname
 {
@@ -114,9 +126,9 @@ h6
 {
     box-shadow: 1px 0px 2px 2px white;
 }
-.contact
+.Search
 {
-    position: fixed;
-    top: 870px;
-    right: 143px;
+    position:fixed;
+    right: 146px;
+    top: 25px;
 }
